@@ -1,6 +1,5 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 ## DATE:
-
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
 
@@ -26,31 +25,26 @@ Select the objects to modify then specify the distance or angle. Use set pivot t
 ## PROCEDURE:
 ### STEP 1: 
  Identifying the given model.
-
 ### STEP 2: Importing the components.
 Firstly, we import all the necessary parts into the assembly project. Here, we use Finger, gear linkage, Secondary Linkage, Base. For, Importing the components into the project, we use the insert derive option in the Insert>Insert Derive.
-
 ### STEP 3: 
 We place the base model onto the X-Y plane.
-
 ### STEP 4: Aligning the components
 Then we align the imported, Gear linkage model, in its respective slot of the base.
 For aligning the component onto the base, we use the align option, available in Modify>Align.
 For aligning the component onto the base, we first select the “from” coordinates then we select the “To” coordinates in the given base model. At first, the model might not align properly, so, we use the flip option to bring the component to the desired position.
-
 ### STEP 5: 
 We follow the same steps for aligning the components onto their respective      slots on the base component.
-
 ### Note: 
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
 ## INPUT:
 
-![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
+<img height=30% width=50% src="https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png">
 
 ## OUTPUT:
 
-![image](https://github.com/laakshit-D/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/119559976/7a79d960-f161-4336-a498-2daceda29ebe)
+<img height=80% width=90% src="https://github.com/laakshit-D/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/119559976/7a79d960-f161-4336-a498-2daceda29ebe">
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
